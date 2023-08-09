@@ -1,5 +1,7 @@
 
 Hello World App Deployment Pipeline using GitHub Actions and Render
+
+
 Welcome to the repository for deploying a "Hello World" app in Python using GitHub Actions and the Render platform. This project demonstrates the setup of a deployment pipeline without Docker, making it an accessible solution for deploying your application.
 
 Application
@@ -37,9 +39,6 @@ Push changes to your repository. The GitHub Actions workflow will be triggered a
 
 Contributing
 Contributions to this project are welcome. Feel free to fork this repository, make changes, and create a pull request. If you encounter any issues or have suggestions for improvements, please open an issue.
-
-License
-This project is licensed under the MIT License.
 
 Feel free to adjust the description and README content to match your project's specific details and preferences.
 
